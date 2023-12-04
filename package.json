@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.23.5",
+    "@babel/eslint-parser": "^7.23.3",
+    "@babel/preset-env": "^7.23.5",
+    "@stylistic/eslint-plugin": "^1.4.1",
+    "eslint": "^8.55.0"
+  }
+}

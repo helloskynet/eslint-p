@@ -1,4 +1,4 @@
-const m = asyncid => {
+const m = async (id) => {
   return await Promise.resolve(id);
 };
 console.log(m);
